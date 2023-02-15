@@ -67,18 +67,17 @@ O administrados também pode alterar nomes, descrição ou ingredientes clicando
 # Tecnologias utilizadas
 O Frontend dessa aplicação foi hospedade no Netlify e o Backend no Render.</br>
 E para essa aplicação foi utilizada:
+* HTML
+* JavaScript
 * ReactJs
 * Node.js
-* Javascript
-* Vite
-* SQLite
-* Knex
-* Multer
-* CORS
-* Axios
 * Styled Components
 * React Icons
 * React Router Dom
+* Vite
+* SQLite
+* Knex
+* Axios
 
 # Instruções para a execução do projeto
 Clonar os dois repositórios, tanto este (Backend) quanto o frontedn que pode ser encontrado [aqui](https://github.com/karinalumy/food-explorer-frontend)
